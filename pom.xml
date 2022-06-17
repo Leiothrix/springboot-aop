@@ -19,7 +19,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <druid.version>1.1.17</druid.version>
         <springfox.version>2.6.1</springfox.version>
-        <fastjson.version>1.2.58</fastjson.version>
+        <fastjson.version>1.2.83</fastjson.version>
         <skipTests>true</skipTests>
     </properties>
 
